@@ -1,0 +1,6 @@
+[submodule "AASSL-RPi"]
+	path = AASSL-RPi
+	url = https://github.com/typ-AhmedSleem/AASSL-RPi.git
+[submodule "AASSL-Android"]
+	path = AASSL-Android
+	url = https://github.com/typ-AhmedSleem/AASSL-Android.git
